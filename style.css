@@ -46,6 +46,7 @@ button {
   border: 2px solid var(--blue);
   border-radius: 20px;
   padding: 8px 22px;
+  cursor:pointer;
 }
 .signup-btn {
   display: block;
